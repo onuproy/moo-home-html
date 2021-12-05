@@ -1,0 +1,43 @@
+@media all and (max-width: 991px) {
+	.logo {
+		text-align: left;
+	}
+}
+
+
+@media all and (max-width: 575px) {
+	.logo a img {
+		height: 65px;
+	}
+	.enter_app a {
+		background: #f1dcdc;
+		font-size: 18px;
+		padding: 6px 25px;
+	}
+	.enter_app {
+		top: 8px;
+	}
+	.body_content h2 {
+		font-size: 27px;
+	}
+	.s_icon_l a {
+		background: #f1dcdc;
+		font-size: 18px;
+		padding: 6px 25px;
+	}
+	.s_icon a img {
+		width: 35px;
+	}
+	.social_list ul li a img {
+		height: 26px;
+		margin: 0px 10px;
+	}
+	.image_1 {
+		right: 40px;
+	}
+
+
+
+
+}
+
